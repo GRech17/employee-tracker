@@ -11,14 +11,18 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GRech17/employee-tracker.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "node",
+    "mysql"
+  ],
+  "author": "Gabriel Reches",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GRech17/employee-tracker/issues"
